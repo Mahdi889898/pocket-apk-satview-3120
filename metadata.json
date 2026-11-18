@@ -1,0 +1,6 @@
+{
+  "name": "ماهواره‌نما",
+  "description": "پخش‌کننده آنلاین شبکه‌های تلویزیونی آزاد و فهرست‌های پخش M3U و HLS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

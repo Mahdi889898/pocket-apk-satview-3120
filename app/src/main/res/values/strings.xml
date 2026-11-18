@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماهواره‌نما</string>
+    <string name="app_subtitle">پخش آنلاین شبکه‌های آزاد و IPTV</string>
+
+    <!-- Navigation -->
+    <string name="nav_channels">شبکه‌ها</string>
+    <string name="nav_favorites">علاقه‌مندی‌ها</string>
+    <string name="nav_import">افزودن / M3U</string>
+    <string name="nav_guide">راهنما</string>
+
+    <!-- Categories -->
+    <string name="category_all">همه</string>
+    <string name="category_general">عمومی</string>
+    <string name="category_news">خبری</string>
+    <string name="category_sports">ورزشی</string>
+    <string name="category_movies">فیلم و سریال</string>
+    <string name="category_documentary">مستند</string>
+    <string name="category_kids">کودک و نوجوان</string>
+    <string name="category_music">موسیقی</string>
+    <string name="category_demo">پخش آزمایشی آزاد</string>
+
+    <!-- Search & Lists -->
+    <string name="search_channels_hint">جستجوی نام شبکه یا دسته‌بندی…</string>
+    <string name="live_badge">زنده</string>
+    <string name="fta_badge">آزاد FTA</string>
+    <string name="recently_watched">پخش‌های اخیر</string>
+    <string name="all_channels">فهرست شبکه‌ها</string>
+    <string name="empty_channels_title">هنوز شبکه‌ای در این بخش نیست</string>
+    <string name="empty_channels_subtitle">از بخش «افزودن / M3U» فهرست پخش M3U یا نشانی استریم HLS اضافه کنید.</string>
+    <string name="empty_favorites_title">شبکه‌ای در علاقه‌مندی‌ها نیست</string>
+    <string name="empty_favorites_subtitle">روی آیکون ستاره کنار هر شبکه بزنید تا دسترسی سریع داشته باشید.</string>
+
+    <!-- Player -->
+    <string name="player_connecting">در حال اتصال به استریم…</string>
+    <string name="player_buffering">در حال بافرینگ…</string>
+    <string name="player_live_active">در حال پخش زنده</string>
+    <string name="player_error_title">خطا در پخش شبکه</string>
+    <string name="player_error_subtitle">نشانی استریم در دسترس نیست یا فرمت آن پشتیبانی نمی‌شود. اتصال اینترنت خود را بررسی کنید.</string>
+    <string name="player_retry">تلاش مجدد</string>
+    <string name="player_back">بازگشت</string>
+    <string name="player_fullscreen">تمام‌صفحه</string>
+    <string name="player_exit_fullscreen">خروج از تمام‌صفحه</string>
+    <string name="player_mute">قطع صدا</string>
+    <string name="player_unmute">وصل صدا</string>
+    <string name="player_aspect_fit">تناسب اصلی</string>
+    <string name="player_aspect_fill">پر کردن صفحه</string>
+    <string name="player_aspect_zoom">بزرگ‌نمایی</string>
+    <string name="player_switch_channel">تعویض سریع شبکه</string>
+
+    <!-- Import / Add -->
+    <string name="import_m3u_url_title">درون‌ریزی فهرست پخش M3U / M3U8</string>
+    <string name="import_m3u_url_desc">نشانی یک فهرست پخش قانونی IPTV (فرمت M3U یا M3U8) را وارد کنید تا تمام شبکه‌های آن دریافت و دسته‌بندی شوند.</string>
+    <string name="playlist_name_label">نام فهرست (اختیاری)</string>
+    <string name="playlist_url_label">نشانی فهرست M3U (https://…)</string>
+    <string name="import_from_url_btn">دریافت و افزودن فهرست</string>
+    <string name="import_from_file_btn">انتخاب فایل M3U از حافظه</string>
+    <string name="add_single_channel_title">افزودن تکی شبکه</string>
+    <string name="channel_name_label">نام شبکه (مثلاً شبکه مستند)</string>
+    <string name="channel_url_label">نشانی استریم زنده (.m3u8 / .mpd / .mp4)</string>
+    <string name="channel_logo_label">نشانی لوگو (اختیاری)</string>
+    <string name="channel_category_label">دسته‌بندی</string>
+    <string name="add_channel_btn">ذخیره و پخش شبکه</string>
+    <string name="saved_playlists_title">فهرست‌های ذخیره شده</string>
+    <string name="delete_playlist">حذف فهرست</string>
+    <string name="delete_channel">حذف شبکه</string>
+    <string name="restore_samples_btn">بازگردانی شبکه‌های نمونه آزاد</string>
+
+    <!-- Guide / Policy Notice -->
+    <string name="guide_title">درباره پخش شبکه‌ها و محدودیت‌های قانونی</string>
+    <string name="guide_card_1_title">پشتیبانی از شبکه‌های آزاد (FTA) و M3U مجاز</string>
+    <string name="guide_card_1_body">ماهواره‌نما یک پخش‌کننده استاندارد اینترنتی (IPTV / HLS / DASH) است. شما می‌توانید هر فهرست پخش قانونی با پسوند M3U/M3U8 یا نشانی مستقیم استریم شبکه‌های آزاد را وارد و با کیفیت تطبیقی تماشا کنید.</string>
+    <string name="guide_card_2_title">درباره شبکه‌های کارتی و رمزگذاری‌شده</string>
+    <string name="guide_card_2_body">دستگاه‌های اندرویدی فاقد تیونر سخت‌افزاری ماهواره و درگاه کارت رمزگشا هستند. همچنین دور زدن رمزگذاری و پخش بدون مجوز شبکه‌های پولی و کارتی مغایر با قوانین کپی‌رایت است و در این برنامه پشتیبانی نمی‌شود.</string>
+    <string name="guide_card_3_title">نحوه یافتن و افزودن شبکه‌های دلخواه</string>
+    <string name="guide_card_3_body">برای تماشای شبکه‌های تلویزیونی رسمی و آزاد، نشانی فایل M3U معتبر یا لینک مستقیم HLS شبکه (دارای پسوند m3u8.) را از وب‌سایت رسمی شبکه یا فهرست‌های عمومی رایگان تهیه کرده و در تب «افزودن / M3U» وارد کنید.</string>
+    <string name="channels_count_format">%1$d شبکه</string>
+    <string name="cd_favorite_toggle">تغییر وضعیت علاقه‌مندی</string>
+    <string name="cd_channel_logo">لوگوی شبکه</string>
+    <string name="cd_clear_search">پاک کردن جستجو</string>
+
+    <!-- Global FTA Directory -->
+    <string name="syncing_directory">در حال دریافت بیش از ۱۰٬۰۰۰ شبکه آزاد جهانی و فارسی…</string>
+    <string name="sync_directory_retry">تلاش مجدد دریافت شبکه‌ها</string>
+    <string name="sync_directory_btn">همگام‌سازی ۱۰٬۰۰۰+ شبکه آزاد</string>
+    <string name="fta_presets_title">دایرکتوری آماده شبکه‌های آزاد (FTA)</string>
+    <string name="fta_presets_desc">با یک لمس، فهرست‌های عمومی و قانونی شبکه‌های آزاد تلویزیونی جهان را به برنامه اضافه کنید.</string>
+</resources>
